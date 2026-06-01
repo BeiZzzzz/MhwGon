@@ -1,0 +1,210 @@
+nav:
+  logo: /img/mhwgon-avatar.svg
+  display_title: true
+  fixed: true
+
+menu:
+  首页: / || fas fa-house
+  归档: /archives/ || fas fa-box-archive
+  分类: /categories/ || fas fa-folder-open
+  标签: /tags/ || fas fa-tags
+  关于: /about/ || fas fa-circle-user
+
+social:
+  fab fa-github: https://github.com/BeiZzzzz || GitHub || '#24292e'
+
+favicon: /img/mhwgon-avatar.svg
+
+avatar:
+  img: /img/mhwgon-avatar.svg
+  effect: true
+
+index_img: /img/mhwgon-banner.svg
+archive_img: /img/mhwgon-banner.svg
+default_top_img: /img/mhwgon-banner.svg
+footer_img: false
+
+subtitle:
+  enable: true
+  effect: true
+  sub:
+    - 分享技术笔记
+    - 记录安全学习
+    - 构建自己的知识栈
+
+code_blocks:
+  theme: darker
+  copy: true
+  language: true
+  shrink: false
+  fullpage: false
+  word_wrap: false
+
+index_layout: 3
+
+toc:
+  post: true
+  number: true
+  expand: false
+  scroll_percent: true
+
+post_meta:
+  page:
+    date_type: created
+    date_format: date
+    categories: true
+    tags: false
+    label: true
+  post:
+    position: left
+    date_type: both
+    date_format: date
+    categories: true
+    tags: true
+    label: true
+
+aside:
+  enable: true
+  button: true
+  mobile: true
+  position: right
+  display:
+    archive: true
+    tag: true
+    category: true
+  card_author:
+    enable: true
+    description: 专注记录有用、可复用的技术内容
+    button:
+      enable: true
+      icon: fab fa-github
+      text: GitHub
+      link: https://github.com/BeiZzzzz
+  card_announcement:
+    enable: true
+    content: 欢迎来到 MhwGon，这里会持续更新技术学习与实践记录。
+  card_recent_post:
+    enable: true
+    limit: 5
+  card_categories:
+    enable: true
+    limit: 8
+  card_tags:
+    enable: true
+    limit: 30
+    color: true
+  card_archives:
+    enable: true
+    type: monthly
+    format: YYYY 年 MM 月
+    order: -1
+    limit: 8
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+    runtime_date: 2026/06/01 00:00:00
+
+readmode: true
+
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: false
+
+rightside_scroll_percent: true
+
+copy:
+  enable: true
+  copyright:
+    enable: false
+
+wordcount:
+  enable: false
+
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+math:
+  use:
+  per_page: true
+
+search:
+  use: local_search
+  placeholder: 输入关键词搜索文章
+  local_search:
+    preload: false
+    top_n_per_article: 2
+    unescape: false
+    pagination:
+      enable: true
+      hitsPerPage: 8
+
+share:
+  use: sharejs
+
+comments:
+  use:
+
+theme_color:
+  enable: true
+  main: "#0f766e"
+  paginator: "#0ea5a4"
+  button_hover: "#f97316"
+  text_selection: "#0ea5a4"
+  link_color: "#2563eb"
+  meta_color: "#64748b"
+  hr_color: "#67e8f9"
+  code_foreground: "#f97316"
+  code_background: "rgba(15, 23, 42, 0.85)"
+  toc_color: "#0ea5a4"
+  blockquote_padding_color: "#0ea5a4"
+  blockquote_background_color: "#ecfeff"
+  scrollbar_color: "#0f766e"
+  meta_theme_color_light: "#f5f7fb"
+  meta_theme_color_dark: "#0f172a"
+
+rounded_corners_ui: true
+
+preloader:
+  enable: true
+  source: 1
+
+enter_transitions: true
+display_mode: light
+
+lightbox: medium_zoom
+
+series:
+  enable: true
+
+mermaid:
+  enable: true
+  code_write: true
+  open_in_new_tab: true
+  zoom_pan: true
+
+note:
+  style: flat
+  icons: true
+  border_radius: 6
+
+snackbar:
+  enable: true
+  position: bottom-left
+
+instantpage: true
+
+lazyload:
+  enable: true
+  native: false
+  field: site
+  blur: true
+
+structured_data:
+  enable: true
+  alternate_name:
+    - MhwGon Blog
+    - MhwGon 技术博客
