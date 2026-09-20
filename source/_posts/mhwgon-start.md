@@ -8,7 +8,7 @@ tags:
   - Hexo
   - Butterfly
   - GitHub Pages
-cover: /img/小镇梦想家-banner.svg
+cover: /img/mhwgon-banner.svg
 description: 这是 小镇梦想家 的第一篇文章，用来确认博客已经成功搭建，并展示站点支持的基础能力。
 ---
 
