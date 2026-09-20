@@ -1,5 +1,5 @@
 nav:
-  logo: /img/mhwgon-avatar.svg
+  logo: /img/avatar.jpg
   display_title: true
   fixed: true
 
@@ -13,10 +13,10 @@ menu:
 social:
   fab fa-github: https://github.com/BeiZzzzz || GitHub || '#24292e'
 
-favicon: /img/mhwgon-avatar.svg
+favicon: /img/avatar.jpg
 
 avatar:
-  img: /img/mhwgon-avatar.svg
+  img: /img/avatar.jpg
   effect: true
 
 index_img: /img/mhwgon-banner.svg
