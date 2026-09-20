@@ -17,10 +17,10 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
-## If your GitHub repository name is `MhwGon`, keep `root: /MhwGon/`.
+## If your GitHub repository name is `xzmxj`, keep `root: /xzmxj/`.
 ## If you publish with `<your-username>.github.io`, change `root` to `/`.
 url: https://BeiZzzzz.github.io
-root: /MhwGon/
+root: /xzmxj/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
