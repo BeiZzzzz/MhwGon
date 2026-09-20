@@ -5,7 +5,7 @@ top_img: false
 aside: false
 ---
 
-# MhwGon
+# 小镇梦想家
 
 这里是我的个人博客。
 

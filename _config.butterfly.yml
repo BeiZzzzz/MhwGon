@@ -82,7 +82,7 @@ aside:
       link: https://github.com/BeiZzzzz
   card_announcement:
     enable: true
-    content: 欢迎来到 MhwGon，这里会持续更新技术学习与实践记录。
+    content: 欢迎来到 小镇梦想家，这里会持续更新技术学习与实践记录。
   card_recent_post:
     enable: true
     limit: 5
@@ -206,5 +206,5 @@ lazyload:
 structured_data:
   enable: true
   alternate_name:
-    - MhwGon Blog
-    - MhwGon 技术博客
+    - 小镇梦想家 Blog
+    - 小镇梦想家 技术博客

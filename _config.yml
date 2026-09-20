@@ -5,14 +5,14 @@
 # Site
 title: 小镇梦想家
 subtitle: ''
-description: 'MhwGon 的个人博客，基于 Hexo + Butterfly 搭建。'
+description: '小镇梦想家 的个人博客，基于 Hexo + Butterfly 搭建。'
 keywords:
-  - MhwGon
+  - 小镇梦想家
   - Hexo
   - 博客
   - 网络安全
   - 技术笔记
-author: MhwGon
+author: 小镇梦想家
 language: zh-CN
 timezone: Asia/Shanghai
 
