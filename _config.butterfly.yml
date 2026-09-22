@@ -208,3 +208,16 @@ structured_data:
   alternate_name:
     - 小镇梦想家 Blog
     - 小镇梦想家 技术博客
+
+# video background injection (ink warrior)
+inject:
+  head:
+    - |
+      <style>
+      #bg-video-wrap{position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;background:#0d1722}
+      #bg-video-wrap video{width:100%;height:100%;object-fit:cover}
+      #bg-video-wrap::after{content:'';position:absolute;inset:0;background:rgba(0,0,0,.35)}
+      </style>
+  bottom:
+    - |
+      <div id="bg-video-wrap"><video src="/xzmxj/img/ink-warrior.mp4" autoplay muted loop playsinline></video></div>
