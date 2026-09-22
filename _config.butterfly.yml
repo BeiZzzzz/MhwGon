@@ -217,6 +217,10 @@ inject:
       #bg-video-wrap{position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;background:#0d1722}
       #bg-video-wrap video{width:100%;height:100%;object-fit:cover}
       #bg-video-wrap::after{content:'';position:absolute;inset:0;background:rgba(0,0,0,.35)}
+      html,body{background:transparent!important}
+      #web_bg{background:transparent!important}
+      :root{--card-bg:rgba(255,255,255,.40)!important}
+      html[data-theme='dark']{--card-bg:rgba(10,18,28,.55)!important}
       </style>
   bottom:
     - |
